@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "HELLO FROM GITHUB!!!"
+echo "FUUUUUUCKKKKKK OFFFFFFF!"
