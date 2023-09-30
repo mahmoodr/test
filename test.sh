@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "FUUUUUUCKKKKKK OFFFFFFF!"
+echo "TEST"
